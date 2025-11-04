@@ -10,7 +10,8 @@
 The financial institution faces growing cybersecurity threats and regulatory challenges that endanger the confidentiality, integrity and availability of sensitive financial data. Increasing digital reliance has exposed vulnerabilities such as data breaches, fraud, system downtime, and compliance risks. Currently, there is no comprehensive risk assessment to identify and prioritise these threats effectively. This limits the organisation’s ability to implement appropriate mitigation strategies and maintain regulatory compliance. Therefore, a structured risk assessment following ISO 27001 principles is needed to evaluate risks and develop targeted treatment plans to strengthen data security and resilience.
 
 # Objectives
-The goal of this project is to perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity and availability of financial data
+The goal of the project is to perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity and availability of financial data
+
 ---
 
 # Methodology 
