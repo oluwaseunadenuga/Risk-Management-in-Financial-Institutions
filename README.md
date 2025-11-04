@@ -37,6 +37,7 @@ Follow Risk management principles to ensure appropriate steps are taken to mitig
 
 ### 1.0 Assets Register
 <img width="1684" height="313" alt="image" src="https://github.com/user-attachments/assets/2d586a48-0b96-4e6e-84ba-720c0a79dd55" />
+<img width="2076" height="388" alt="image" src="https://github.com/user-attachments/assets/b29fa02c-5542-4193-a94a-5f93dbcfb18f" />
 
 
 ---
