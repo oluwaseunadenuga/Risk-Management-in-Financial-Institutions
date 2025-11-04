@@ -7,7 +7,7 @@
 
 ---
 # Problem Statement
-Call centers handle sensitive customer and business information, making them targets for security threats such as unauthorised access, data breaches and system failures. Currently, there is no comprehensive framework in place to safeguard data and ensure secure operations. This exposes the organisation to risks including data loss, reputational damage, operational downtime and regulatory non-compliance. Emerging threats, remote work setups and third-party integrations further increase the center’s vulnerability. A structured risk assessment is needed to identify, analyse and prioritise these risks effectively. The findings will guide the implementation of strong security protocols to protect customer data, ensure compliance and maintain business continuity.
+The financial institution faces growing cybersecurity threats and regulatory challenges that endanger the confidentiality, integrity and availability of sensitive financial data. Increasing digital reliance has exposed vulnerabilities such as data breaches, fraud, system downtime, and compliance risks. Currently, there is no comprehensive risk assessment to identify and prioritise these threats effectively. This limits the organisation’s ability to implement appropriate mitigation strategies and maintain regulatory compliance. Therefore, a structured risk assessment following ISO 27001 principles is needed to evaluate risks and develop targeted treatment plans to strengthen data security and resilience.
 
 # Objectives
 The goal of this project is to perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity and availability of financial data
