@@ -12,11 +12,13 @@ Call centers handle sensitive customer and business information, making them tar
 # Objectives
 The goal of this project is to perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity and availability of financial data.
 ---
+
 # Methodology 
 1. Follow Risk management principles to ensure appropriate steps are taken to mitigate these risks.
 
-**Tasks **
-## Conduct a Risk Assessment
+## Tasks
+
+** Conduct a Risk Assessment**
 - Identify potential risks that could affect the financial institution, such as unauthorised access to customer records, denial-of-service attacks, fraud or violations of data privacy laws.
 - Analyse identified risks by assessing their likelihood and potential impact on financial data security, customer trust and business operations.
 - Evaluate and prioritise the risks, focusing on those that could have the most severe consequences for financial data protection and regulatory compliance.
