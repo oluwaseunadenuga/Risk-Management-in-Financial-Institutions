@@ -40,3 +40,5 @@ Follow Risk management principles to ensure appropriate steps are taken to mitig
 
 
 ---
+## 2.0 Risk Rating Colour Code
+<img width="441" height="446" alt="image" src="https://github.com/user-attachments/assets/2bdb676a-cd79-4a01-b884-2b7ddd0546e8" />
