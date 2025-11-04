@@ -1,18 +1,27 @@
 # Enhancing Information Security in a Financial Institution Through Risk Management
-<img width="2048" height="1127" alt="image" src="https://github.com/user-attachments/assets/73c4c696-52b4-4a11-8cf0-3ac62e46999b" />
+<img width="823" height="463" alt="image" src="https://github.com/user-attachments/assets/6375605b-0147-498f-bc51-49b86ce54c14" />
+<img width="790" height="505" alt="image" src="https://github.com/user-attachments/assets/783e1b93-47ec-4af7-99ee-e31ede3fcf54" />
+
 
 # Introduction 
- This project focuses on implementing robust security protocols for a call center. This includes conducting a detailed risk assessment to identify potential threats to the center’s operations, data protection and customer interactions.
+ This project focuses on ensuring the security and resilience of sensitive financial data and the institution's IT infrastructure. As part of your responsibilities, you need to perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity, and availability of financial data. You will follow risk management principles to ensure appropriate steps are taken to mitigate these risks.
 
 ---
 # Problem Statement
 Call centers handle sensitive customer and business information, making them targets for security threats such as unauthorised access, data breaches and system failures. Currently, there is no comprehensive framework in place to safeguard data and ensure secure operations. This exposes the organisation to risks including data loss, reputational damage, operational downtime and regulatory non-compliance. Emerging threats, remote work setups and third-party integrations further increase the center’s vulnerability. A structured risk assessment is needed to identify, analyse and prioritise these risks effectively. The findings will guide the implementation of strong security protocols to protect customer data, ensure compliance and maintain business continuity.
 
 # Objectives
-The goal of this project is to help the client prioritise and implement strong security protocols for their organisation’s call center operation by identifying potential threats that may disrupt the call center’s operations, analysing identified risks and evaluating the approach to manage them methodically.
+The goal of this project is to perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity and availability of financial data. You will follow risk management principles to ensure appropriate steps are taken to mitigate these risks.
 
 ---
-# Tasks
+# Methodology 
+1.Follow Risk management principles to ensure appropriate steps are taken to mitigate these risks.
+
+**Tasks **
+- Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
+- Analyse the identified risks by assessing their likelihood and potential impact on business operations.
+- Prioritise the risks by evaluating their severity to determine which require immediate attention.
+- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets important to the client.# Tasks
 1. **Perform a Risk Assessment:**
 - Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
 - Analyse the identified risks by assessing their likelihood and potential impact on business operations.
