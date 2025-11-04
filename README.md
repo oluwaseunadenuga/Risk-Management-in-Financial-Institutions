@@ -3,7 +3,7 @@
 
 
 # Introduction 
- This project focuses on ensuring the security and resilience of sensitive financial data and the institution's IT infrastructure. As part of my responsibilities, I will perform a risk assessment to identify potential threats that could compromise the confidentiality, integrity, and availability of financial data. You will follow risk management principles to ensure appropriate steps are taken to mitigate these risks.
+ This project focuses on ensuring the security and resilience of sensitive financial data and the institution's IT infrastructure.  The project will involve performing a risk assessment to identify potential threats that could compromise the confidentiality, integrity, and availability of financial data.
 
 ---
 # Problem Statement
@@ -16,9 +16,12 @@ The goal of this project is to perform a risk assessment to identify potential t
 1. Follow Risk management principles to ensure appropriate steps are taken to mitigate these risks.
 
 **Tasks **
-- Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
-- Analyse the identified risks by assessing their likelihood and potential impact on business operations.
-- Prioritise the risks by evaluating their severity to determine which require immediate attention.
+## Conduct a Risk Assessment
+- Identify potential risks that could affect the financial institution, such as unauthorised access to customer records, denial-of-service attacks, fraud or violations of data privacy laws.
+- Analyse identified risks by assessing their likelihood and potential impact on financial data security, customer trust and business operations.
+- Evaluate and prioritise the risks, focusing on those that could have the most severe consequences for financial data protection and regulatory compliance.
+-
+-   by evaluating their severity to determine which require immediate attention.
 - Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets important to the client.# Tasks
 1. **Perform a Risk Assessment:**
 - Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
