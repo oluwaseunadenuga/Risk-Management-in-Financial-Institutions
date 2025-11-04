@@ -18,18 +18,10 @@ The goal of this project is to perform a risk assessment to identify potential t
 
 ## Tasks
 
-** Conduct a Risk Assessment**
+**** 1. Conduct a Risk Assessment****
 - Identify potential risks that could affect the financial institution, such as unauthorised access to customer records, denial-of-service attacks, fraud or violations of data privacy laws.
 - Analyse identified risks by assessing their likelihood and potential impact on financial data security, customer trust and business operations.
 - Evaluate and prioritise the risks, focusing on those that could have the most severe consequences for financial data protection and regulatory compliance.
--
--   by evaluating their severity to determine which require immediate attention.
-- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets important to the client.# Tasks
-1. **Perform a Risk Assessment:**
-- Identify potential threats that may disrupt the call center’s operations, such as unauthorised access to customer information, system failures, or regulatory compliance issues.
-- Analyse the identified risks by assessing their likelihood and potential impact on business operations.
-- Prioritise the risks by evaluating their severity to determine which require immediate attention.
-- Identify the assets that need to be protected. This could include sensitive information, customer data, financial information or any other critical assets important to the client.
 
 2. **Prepare a Risk Treatment Plan Request:**
 - Based on the assessment, a formal request for risk treatment would be created and directed to the appropriate departments (e.g., IT, HR, Operations).
@@ -43,31 +35,3 @@ The goal of this project is to perform a risk assessment to identify potential t
 <img width="1784" height="507" alt="image" src="https://github.com/user-attachments/assets/bf883324-8cec-4786-b032-801259a4d1e8" />
 
 ---
-## 2. Colour Coding Legend
-<img width="682" height="135" alt="Colour Coding Legend" src="https://github.com/user-attachments/assets/4b5a5e56-06c8-41a9-b163-cc41d73253ae" />
-
-Risk Score (R) is calculated as $L \times I$. Risk tolerance dictates that scores of 15-25 (Red) are Intolerable and require immediate treatment.
-
-### 3. Comprehensive Risk Register Summary
-The following table summarises all identified risks, their scores, and their potential impact on call centre operations, regulatory compliance, and business continuity.
-<img width="1828" height="776" alt="image" src="https://github.com/user-attachments/assets/4cc2f0d0-5966-492c-9b51-6cb5f9d4bbc8" />
-<img width="1834" height="786" alt="image" src="https://github.com/user-attachments/assets/a574fb2a-c087-4601-9562-a869ba43605a" />
-<img width="1830" height="606" alt="image" src="https://github.com/user-attachments/assets/55906fcc-5ac6-409c-ae09-d10559b1c717" />
-
-### 4. Formal Request for High-Priority Risk Treatment (Score >=16)
-
-**TO: Head of IT Infrastructure, Head of Human Resources (HR), Head of Call Centre Operations**
-
-**FROM: [Your Name/GRC Department]**
-
-**SUBJECT: URGENT ACTION REQUIRED: Treatment of Extreme Risks (Score>=16)**
-
-This section formally communicates the two Extreme Risks that require immediate, prioritized, and funded treatment plans. The departments listed below are mandated to collaborate to reduce the residual risk score for these items to a score of 8 (High) or lower within the next 6 months.
-<img width="1484" height="557" alt="image" src="https://github.com/user-attachments/assets/a004e03c-6148-4e07-ada5-0f05d3366c34" />
-<img width="837" height="310" alt="image" src="https://github.com/user-attachments/assets/473c8245-1e02-4481-be86-dd832037bf35" />
-
-**Next Steps:**
-
-Departmental Heads are required to acknowledge receipt of this request and provide an initial progress update to the GRC function within 14 days. 
-
-Thanks
