@@ -1,1 +1,1 @@
-# Risk-Management-in-Financial-Institutions
+# Risk Management in Financial Institutions
