@@ -44,4 +44,5 @@ Follow Risk management principles to ensure appropriate steps are taken to mitig
 
 ### 3.0 Risk Assessment Summary
 <img width="2298" height="324" alt="image" src="https://github.com/user-attachments/assets/2d291449-b9f4-4d5f-a6c7-41941a5a8c54" />
+<img width="2520" height="367" alt="image" src="https://github.com/user-attachments/assets/27a4012b-2fda-477b-a194-45d8e6a55c9a" />
 
