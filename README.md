@@ -256,9 +256,9 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 ![Gap Analysis](https://img.shields.io/badge/Soft%20Skill-Regulatory%20Gap%20Analysis-2ea44f?style=flat-square)
 
 ---
-> [!NOTE]
 
-> **Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
+## NOTE
+**Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
 
 ## 📬 Contact
 
