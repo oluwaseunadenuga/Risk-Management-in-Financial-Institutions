@@ -258,11 +258,11 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 ---
 
 ## NOTE
-**Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
+**Portfolio Project** - All organisation names and data used in this repository are fictional and created for demonstration purposes only.
 
-## 📬 Contact
+## Contact
 
-If you have questions about this project or would like to discuss GRC, cybersecurity risk, or financial services compliance:
+If you have questions about this project or would like to discuss GRC, cybersecurity risk or financial services compliance:
 
 - 🔗 **GitHub:** [@oluwaseunadenuga](https://github.com/oluwaseunadenuga)
 - 💼 **LinkedIn:** [linkedin.com/in/oluwaseunadenuga](https://linkedin.com/in/oluwaseunadenuga)
