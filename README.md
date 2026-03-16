@@ -13,7 +13,7 @@ A comprehensive **cybersecurity and operational risk assessment** was conducted 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Scope & Engagement Details](#-scope--engagement-details)
@@ -29,7 +29,7 @@ A comprehensive **cybersecurity and operational risk assessment** was conducted 
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This project delivers a structured cybersecurity risk assessment for a mid-tier UK financial institution, evaluating threats across **information security, operational resilience, third-party exposure, regulatory compliance, and fraud**. Using a Likelihood × Impact matrix (1–25 scale), 34 risks were identified, scored, and escalated appropriately for Risk & Compliance Committee review.
 
@@ -37,7 +37,7 @@ Key activities included stakeholder interviews, asset inventory, threat modellin
 
 ---
 
-## 🔭 Scope & Engagement Details
+##Scope & Engagement Details
 
 | Attribute | Detail |
 |-----------|--------|
@@ -51,7 +51,7 @@ Key activities included stakeholder interviews, asset inventory, threat modellin
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 A five-phase approach was adopted, combining stakeholder interviews, document review, threat modelling, and a ransomware tabletop exercise:
 
@@ -92,7 +92,7 @@ Delivered an executive summary, full risk register, and 180-day control roadmap 
 
 ---
 
-## 📊 Risk Register (Sample)
+## Risk Register (Sample)
 
 The table below is an extract from the full 34-risk register. Risks are scored using **Inherent Risk = Likelihood × Impact (1–25)**. Residual risk reflects post-control effectiveness.
 
@@ -117,7 +117,8 @@ The table below is an extract from the full 34-risk register. Risks are scored u
 
 ### F1 — Absence of Privileged Access Management (PAM)
 
-No centralised PAM solution was in place. **47 privileged accounts** were identified across production systems with shared credentials and no session recording — creating a critical insider threat gap and audit trail deficiency under the FCA's Senior Managers & Certification Regime (SMCR).
+No centralised PAM solution was in place.
+**47 privileged accounts** were identified across production systems with shared credentials and no session recording, creating a critical insider-threat gap and an audit-trail deficiency under the FCA's Senior Managers & Certification Regime (SMCR).
 
 ### F2 — DORA Non-Compliant Third-Party ICT Contracts
 
@@ -125,7 +126,7 @@ No centralised PAM solution was in place. **47 privileged accounts** were identi
 
 ### F3 — Patch Management SLA Breach
 
-The internet banking platform carried **23 unpatched CVEs** (9 rated High/Critical), with some unpatched for more than 90 days — directly violating the organisation's own 30-day patch SLA and **PCI DSS Requirement 6.3**.
+The internet banking platform had 23 unpatched CVEs (9 rated High/Critical), some unpatched for more than 90 days, directly violating the organisation's 30-day patch SLA and PCI DSS Requirement 6.3.
 
 ### F4 — AWS S3 Bucket Misconfiguration (Public Read Access)
 
@@ -133,7 +134,8 @@ Three AWS S3 buckets containing KYC documentation were found with public read pe
 
 ### F5 — Cyber Incident Response Plan Not Tested Within 12 Months
 
-The IRP had not been exercised in **over 18 months**. Both DORA Article 26 and FCA PS21/3 require regular scenario testing of operational resilience plans — a direct and documented compliance gap.
+The IRP had not been exercised in
+**over 18 months**. Both DORA Article 26 and FCA PS21/3 require regular scenario testing of operational resilience plans a direct and documented compliance gap.
 
 ### F6 — Unsupported Legacy Core Banking System
 
@@ -144,35 +146,35 @@ The COBOL-based core banking system has operated without vendor support since 20
 
 ---
 
-## 🛡️ Control Recommendations & Roadmap
+## Control Recommendations & Roadmap
 
-### ⚡ Immediate Actions (0–30 days)
+### Immediate Actions (0–30 days)
 
 - Remediate 9 Critical/High CVEs on the internet banking platform
 - Revoke public access on 3 misconfigured AWS S3 buckets
 - Enable MFA on all 47 privileged accounts as an interim PAM control
 - Isolate legacy COBOL system to a strictly ACL-controlled network segment
-- Brief Risk & Compliance Committee on all Critical and High findings
+- Brief the Risk & Compliance Committee on all Critical and High findings
 
-### 📅 Short-Term Programme (31–90 days)
+### Short-Term Programme (31–90 days)
 
 - Deploy **CyberArk PAM** for full privileged account session management and audit trail
 - Remediate 14 DORA non-compliant vendor contracts (insert Article 30 mandatory clauses)
 - Implement automated patch management using **Qualys Patch Management**
-- Conduct full CSIRT tabletop exercise — ransomware incident scenario
+- Conduct a full CSIRT tabletop exercise — ransomware incident scenario
 - Launch phishing simulation programme for all 1,200 staff
 
-### 🛣️ Strategic Transformation (91–180 days)
+### Strategic Transformation (91–180 days)
 
 - Begin legacy COBOL core banking modernisation programme
 - Implement **Zero Trust architecture** across the core banking network perimeter
-- Establish continuous Third-Party Risk Management (TPRM) monitoring programme
+- Establish a continuous Third-Party Risk Management (TPRM) monitoring programme
 - Operationalise **SIEM + SOAR** with financial sector-specific threat intelligence feeds
 - Initiate **ISO 27001:2022 certification** gap closure programme and roadmap
 
 ---
 
-## ⚖️ Compliance Framework Mapping
+## Compliance Framework Mapping
 
 | Framework | Relevant Areas | Key Controls Referenced |
 |-----------|---------------|------------------------|
@@ -185,7 +187,7 @@ The COBOL-based core banking system has operated without vendor support since 20
 
 ---
 
-## 🔧 Tools & Techniques
+## Tools & Techniques
 
 ```
 Threat Modelling     MITRE ATT&CK Navigator (Financial Services profile)
@@ -210,7 +212,7 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 
 ---
 
-## 📈 Outcomes & Deliverables
+## Outcomes & Deliverables
 
 | Metric | Result |
 |--------|--------|
@@ -222,7 +224,7 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 | Recommendations Delivered | **22** |
 | Engagement Duration | **6 Weeks** |
 
-#### 📦 Deliverables Produced
+#### Deliverables Produced
 
 - ✅ Full 34-risk register with inherent/residual scoring, treatment owners, KRIs, and escalation thresholds
 - ✅ Executive briefing pack — 15-slide deck for Risk & Compliance Committee and Board
@@ -233,7 +235,7 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 ![Cyber Risk Assessment](https://img.shields.io/badge/GRC-Cyber%20Risk%20Assessment-0075ca?style=flat-square)
 ![Risk Register](https://img.shields.io/badge/GRC-Risk%20Register%20Construction-0075ca?style=flat-square)
@@ -253,7 +255,9 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 ![Gap Analysis](https://img.shields.io/badge/Soft%20Skill-Regulatory%20Gap%20Analysis-2ea44f?style=flat-square)
 
 ---
+> [!NOTE]
 
+> **Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
 ## 📬 Contact
 
 If you have questions about this project or would like to discuss GRC, cybersecurity risk, or financial services compliance:
@@ -266,10 +270,7 @@ If you have questions about this project or would like to discuss GRC, cybersecu
 
 <div align="center">
 
-> [!NOTE]
-> **Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
-
-⭐ **If you found this project useful, please consider starring the repository**
+ **If you found this project useful, please consider starring the repository**
 
 *All organisation data is fictional and for portfolio demonstration purposes only.*
 
