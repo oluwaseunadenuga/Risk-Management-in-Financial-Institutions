@@ -1,4 +1,5 @@
 # 🏦 Enhancing Information Security in a Financial Institution through Risk Management
+
 ![Project](https://img.shields.io/badge/Project-Risk%20Assessment-0075ca?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Financial%20Services-8a6520?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square)
@@ -8,7 +9,7 @@
 
 
 
-A comprehensive **cybersecurity and operational risk assessment** was conducted for a mid-tier UK financial institution. This project identifies, quantifies and prioritises 34 risks across five domains using a qualitative-quantitative hybrid methodology,producing a full risk register, executive briefing pack and 180-day remediation roadmap.
+A comprehensive **cybersecurity and operational risk assessment** was conducted for a mid-tier UK financial institution. This project identifies, quantifies and prioritises 34 risks across five domains using a qualitative-quantitative hybrid methodology, producing a full risk register, executive briefing pack and 180-day remediation roadmap.
 
 
 ---
@@ -33,7 +34,7 @@ A comprehensive **cybersecurity and operational risk assessment** was conducted 
 
 This project delivers a structured cybersecurity risk assessment for a mid-tier UK financial institution, evaluating threats across **information security, operational resilience, third-party exposure, regulatory compliance, and fraud**. Using a Likelihood × Impact matrix (1–25 scale), 34 risks were identified, scored, and escalated appropriately for Risk & Compliance Committee review.
 
-Key activities included stakeholder interviews, asset inventory, threat modelling using MITRE ATT&CK for Financial Services and TIBER-EU, a gap analysis against ISO 27001:2022 Annex A and NIST CSF 2.0, and a live ransomware tabletop exercise with the CSIRT team.
+Key activities included stakeholder interviews, asset inventory, threat modelling using MITRE ATT&CK for Financial Services and TIBER-EU, a gap analysis against ISO 27001:2022 Annex A and NIST CSF 2.0 and a live ransomware tabletop exercise with the CSIRT team.
 
 ---
 
@@ -44,7 +45,7 @@ Key activities included stakeholder interviews, asset inventory, threat modellin
 | **Engagement Type** | Internal Risk Assessment |
 | **Duration** | 6 Weeks |
 | **Scope** | Core banking infrastructure, internet banking platform, cloud-hosted data warehouses, third-party payment processors, staff endpoints (3 office sites) |
-| **Total Risks Identified** | 34 — (5 Critical · 9 High · 14 Medium · 6 Low) |
+| **Total Risks Identified** | 34 - (5 Critical · 9 High · 14 Medium · 6 Low) |
 | **Control Gaps Found** | 18 across 6 domains |
 | **Regulatory Frameworks** | ISO 27001:2022 · NIST CSF 2.0 · DORA · UK GDPR · PCI DSS v4.0 · FCA PS21/3 |
 | **Key Deliverables** | Risk Register · Executive Briefing Pack · Control Roadmap · Tabletop Exercise Report |
@@ -258,6 +259,7 @@ Reporting            Power BI (Risk Heat Map Dashboard)
 > [!NOTE]
 
 > **Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
+
 ## 📬 Contact
 
 If you have questions about this project or would like to discuss GRC, cybersecurity risk, or financial services compliance:
@@ -268,7 +270,7 @@ If you have questions about this project or would like to discuss GRC, cybersecu
 
 ---
 
-<div align="center">
+<div align="left">
 
  **If you found this project useful, please consider starring the repository**
 
