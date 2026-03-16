@@ -73,19 +73,19 @@ Applied **MITRE ATT&CK for Financial Services** and **TIBER-EU** threat intellig
 <details>
 <summary><strong>Phase 3 — Vulnerability & Control Review</strong></summary>
 
-Reviewed existing technical and procedural controls against **ISO 27001:2022 Annex A** and **NIST CSF 2.0**. Gap analysis identified **18 control weaknesses** across 6 domains including access management, patch management, cloud security, and third-party oversight.
+Reviewed existing technical and procedural controls against **ISO 27001:2022 Annex A** and **NIST CSF 2.0**. Gap analysis identified **18 control weaknesses** across 6 domains, including access management, patch management, cloud security, and third-party oversight.
 
 </details>
 
 <details>
-<summary><strong>Phase 4 — Risk Scoring & Register Construction</strong></summary>
+<summary><strong>Phase 4 - Risk Scoring & Register Construction</strong></summary>
 
 Applied inherent and residual risk scoring using a **5×5 Likelihood × Impact matrix** (scores 1–25). All Critical (≥20) and High (15–19) risks were escalated to Board-level reporting with formal treatment plans and assigned ownership.
 
 </details>
 
 <details>
-<summary><strong>Phase 5 — Reporting & Treatment Planning</strong></summary>
+<summary><strong>Phase 5 - Reporting & Treatment Planning</strong></summary>
 
 Delivered an executive summary, full risk register, and 180-day control roadmap with ownership, target remediation dates, cost estimates, and KRI metrics aligned to the institution's risk appetite statement.
 
