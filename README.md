@@ -38,7 +38,7 @@ Key activities included stakeholder interviews, asset inventory, threat modellin
 
 ---
 
-##Scope & Engagement Details
+## Scope & Engagement Details
 
 | Attribute | Detail |
 |-----------|--------|
@@ -114,7 +114,7 @@ The table below is an extract from the full 34-risk register. Risks are scored u
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 ### F1 — Absence of Privileged Access Management (PAM)
 
