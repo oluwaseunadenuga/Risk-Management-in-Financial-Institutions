@@ -1,5 +1,4 @@
-# 🏦 Risk Management in Financial Institutions
-
+# 🏦 Enhancing Information Security in a Financial Institution Through Risk Management
 ![Project](https://img.shields.io/badge/Project-Risk%20Assessment-0075ca?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Financial%20Services-8a6520?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square)
@@ -7,9 +6,7 @@
 ![Risks](https://img.shields.io/badge/Risks%20Found-34%20Identified-e36209?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-6%20Weeks-0e7490?style=flat-square)
 
-A comprehensive **cybersecurity and operational risk assessment** conducted for a mid-tier UK financial institution. This project identifies, quantifies, and prioritises 34 risks across five domains using a qualitative-quantitative hybrid methodology — producing a full risk register, executive briefing pack, and 180-day remediation roadmap.
-
-> *The assessment aligns with FCA PS21/3, DORA (ICT Risk), ISO/IEC 27001:2022, NIST CSF 2.0, PCI DSS v4.0, and UK GDPR — providing a unified compliance posture for Board-level reporting.*
+A comprehensive **cybersecurity and operational risk assessment** was conducted for a mid-tier UK financial institution. This project identifies, quantifies and prioritises 34 risks across five domains using a qualitative-quantitative hybrid methodology,producing a full risk register, executive briefing pack and 180-day remediation roadmap.
 
 > [!NOTE]
 > **Portfolio Project** — All organisation names and data used in this repository are fictional and created for demonstration purposes only.
