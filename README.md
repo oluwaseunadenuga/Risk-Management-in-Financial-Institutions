@@ -1,4 +1,4 @@
-# 🏦 Enhancing Information Security in a Financial Institution through Risk Management
+# Enhancing Information Security in a Financial Institution through Risk Management
 
 ![Project](https://img.shields.io/badge/Project-Risk%20Assessment-0075ca?style=flat-square)
 ![Domain](https://img.shields.io/badge/Domain-Financial%20Services-8a6520?style=flat-square)
@@ -6,8 +6,6 @@
 ![Frameworks](https://img.shields.io/badge/Frameworks-6%20Mapped-6f42c1?style=flat-square)
 ![Risks](https://img.shields.io/badge/Risks%20Found-34%20Identified-e36209?style=flat-square)
 ![Duration](https://img.shields.io/badge/Duration-6%20Weeks-0e7490?style=flat-square)
-
-
 
 A comprehensive **cybersecurity and operational risk assessment** was conducted for a mid-tier UK financial institution. This project identifies, quantifies and prioritises 34 risks across five domains using a qualitative-quantitative hybrid methodology, producing a full risk register, executive briefing pack and 180-day remediation roadmap.
 
